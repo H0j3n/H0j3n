@@ -3,7 +3,7 @@
 I am a Student. Love to explore new things especially on CyberSecurity. Love to coding at the same time. My hope, I want to contribute more to community with my GitHub.
 
 - 🐱‍💻 Currently active with TryHackMe, HackTheBox, Vulnhub and PwnTillDawn.
-- 🌱 Trying to learn more about CyberSecurity especially on Penestration Testing and DevSecOps
+- 🌱 Trying to learn more about CyberSecurity especially on Penestration Testing
 - 👔 Looking for opportunity to join as intern/full time candidate in 2021
 - ⚡ Happy Go Lucky and Friendly
 
