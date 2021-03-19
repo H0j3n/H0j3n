@@ -11,7 +11,7 @@
 
 ## About Me
 
-I'm a Student wgo loves to explore new things especially on CyberSecurity. 
+I'm a Student who loves to explore new things especially on CyberSecurity. 
 
 Love to coding at the same time. 
 
